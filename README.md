@@ -1,17 +1,17 @@
 ![Banner de Sebastian Ignacio Bazan](./assets/banner-sebastian.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sebastian</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Sebastian</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sebastian -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mí
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-### 🛠 &nbsp;Tech Stack
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y pequeños proyectos rápidos.\
+🎓 &nbsp;Actualmente estudio Medicina Humana en la Universidad Científica del Sur, en Lima, Perú.\
+🌱 &nbsp;Estoy aprendiendo más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
+✍️ &nbsp;En mi tiempo libre, practico Diseño Gráfico y escribo en blogs como pasatiempos o trabajos adicionales.\
+💬 &nbsp;Puedes contactarme para consultorías gratuitas, voluntariados o simplemente para conversar sobre temas interesantes.\
+### 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +36,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
 <a href="https://github.com/sebastian28102005-oss">
