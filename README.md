@@ -41,14 +41,5 @@
 <p align="center">
 <a href="https://github.com/sebastian28102005-oss">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastian28102005-oss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebastian28102005-oss&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-</p>
-
------
-Last Edited on: 11/12/2020
